@@ -12,8 +12,10 @@
   },
   "author": "Samuel Rounce",
   "license": "BSD",
+  "devDependencies": {
+    "browserify": "~2.13.2"
+  }
   "dependencies": {
-    "browserify": "~2.13.2",
     "bitset": "git://github.com/srounce/bitset.git#v0.3.2"
   }
 }
