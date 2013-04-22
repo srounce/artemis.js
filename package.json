@@ -1,0 +1,19 @@
+{
+  "name": "artemis.js",
+  "version": "0.1.0",
+  "description": "JS port of the Artemis Entity/Component framework",
+  "main": "src/artemis.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/srounce/artemis.js.git"
+  },
+  "author": "Samuel Rounce",
+  "license": "BSD",
+  "dependencies": {
+    "browserify": "~2.13.2",
+    "bitset": "git://github.com/srounce/bitset.git#v0.3.2"
+  }
+}
