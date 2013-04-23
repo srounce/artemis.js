@@ -1,4 +1,5 @@
-#Artemis.js
+# Artemis.js
+
 
 Artemis.js is a JavaScript port of the [Artemis](http://gamadu.com/artemis) Entity System framework.
 
@@ -9,10 +10,12 @@ Artemis.js is a JavaScript port of the [Artemis](http://gamadu.com/artemis) Enti
 
 ___
 
-## TODO:
+### TODO:
+<pre>
 - [ ] This list
 - [ ] README!
 - [ ] Docs!
 - [ ] Tests!
 - [ ] Examples!
 - [ ] Extensions!
+</pre>
