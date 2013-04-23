@@ -7,12 +7,12 @@ Artemis.js is a JavaScript port of the [Artemis](http://gamadu.com/artemis) Enti
 > entities based on their aspects. This promotes separation of concern and
 > simplifies game design tremendously.
 
-__
+___
 
 ## TODO:
-- [] This list
-- [] README!
-- [] Docs!
-- [] Tests!
-- [] Examples!
-- [] Extensions!
+- [ ] This list
+- [ ] README!
+- [ ] Docs!
+- [ ] Tests!
+- [ ] Examples!
+- [ ] Extensions!
