@@ -14,8 +14,8 @@
   "license": "BSD",
   "dependencies": {
     "bitset": "git://github.com/srounce/bitset.git#v0.3.2"
-  }
+  },
   "devDependencies": {
     "browserify": "~2.13.2"
-  },
+  }
 }
